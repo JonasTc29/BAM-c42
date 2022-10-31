@@ -1,0 +1,29 @@
+body {
+    background: rgb(184, 200, 223);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    background: skyblue ;
+    color: blue;
+    height: 100px;
+    width: 100%;    
+}
+
+.flex-container {
+    display: flex;
+    background-color: gray;
+}
+.flex-item {
+    background-color:blue;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+}
+
+.headerimg {
+    width: 200px;
+    height: auto;
+}

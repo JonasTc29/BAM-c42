@@ -1,0 +1,13 @@
+body{
+    background: rgb(184, 200, 223);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    background: skyblue ;
+    color: blue;
+    height: 100px;
+    width: 100%;
+    
+}
+

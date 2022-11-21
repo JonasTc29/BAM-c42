@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#menu a{
+    font-size: 18px;
+    font-weight: bold;
+}
+header{
+    font-family: 'Bebas Neue', cursive;
+}
